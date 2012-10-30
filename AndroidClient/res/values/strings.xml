@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Please Press Start</string>
+    <string name="hello2">Testing your accelerometer</string>
+    <string name="app_name">Accelerometer</string>
+    <color name="c_back">#56035F</color>
+    <color name="c_text">#FFFFFFFF</color>
+    <color name="c_front">#FF000000</color>
+    <color name="c_draw">#000000</color>
+
+</resources>
